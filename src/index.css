@@ -1,0 +1,26 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+  margin: auto;
+  max-width: 38rem;
+  padding: 2rem;
+  text-align: center;
+  background-color: #171717;
+  color: white;
+}
+
+.green {
+  color: green;
+}
+.aqua {
+  color: aqua;
+}
+.purple {
+  color: purple;
+}
+.orange {
+  color: orange;
+}
+.red {
+  color: red;
+}
